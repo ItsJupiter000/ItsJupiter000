@@ -42,6 +42,8 @@
 
 <br/>
 
+  [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ItsJupiter000&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <!-- <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <a href="mailto:itsjupiter000@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>

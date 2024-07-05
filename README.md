@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on Springboot Project<br>🌱 I’m currently learning Backend & DevOps<br>👨‍💻 All of my projects are available at https://github.com/ItsJupiter000?tab=repositories<br>💬 Ask me about Node.js, Springboot, Scalable systems<br>📫 How to reach me uttamgohil.dev@gmail.com<br>📄 Know about my experiences https://drive.google.com/file/d/1KPRoyHbF0rpN-KLkqZA79OAQnhRuSlGy/view?usp=sharing
+🔭 I’m currently working on Backend Projects<br>🌱 I’m currently learning Backend & DevOps<br>👨‍💻 All of my projects are available at https://github.com/ItsJupiter000?tab=repositories<br>💬 Ask me about Node.js, Springboot, Scalable systems<br>📫 How to reach me uttamgohil.dev@gmail.com<br>📄 Know about my experiences https://drive.google.com/file/d/1KPRoyHbF0rpN-KLkqZA79OAQnhRuSlGy/view?usp=sharing
 
 
 ## 🌐 Socials:
